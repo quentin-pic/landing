@@ -1,0 +1,3 @@
+.banner{background-image: linear-gradient(-250deg,rgba(0,0,0,0.6),rgba(0,0,0,0.2)), url(../../images/image2.jpg);color: white;padding: 150px 0px;background-size: cover;background-position: center;opacity: 0.8;height: 170px;}
+.banner h1{font-size: 40px;text-align:  center;font-weight: bold;}
+.banner h2{font-size: 30px;font-weight: lighter;margin-bottom: 40px;}
